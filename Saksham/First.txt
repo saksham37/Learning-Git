@@ -1,2 +1,3 @@
 changes made by the first branch
+changes made by the second branch
 This is by far my first txt file.
